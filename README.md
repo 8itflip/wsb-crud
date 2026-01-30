@@ -59,10 +59,10 @@ Distributed under MIT License.
 ## Code Contributors
 
 This project exists thanks to:\
-Wojciech Jarczak - [github.com/wjarczak](https://github.com/wjarczak)
+Wojciech Jarczak - [github.com/8itflip](https://github.com/8itflip)
 
 ## Project Link
-[github.com/wjarczak/WSB-CRUD](https://github.com/wjarczak/WSB-CRUD)
+[github.com/8itflip/WSB-CRUD](https://github.com/8itflip/WSB-CRUD)
 
 # PL
 
@@ -122,7 +122,7 @@ Projekt dystrybuowany jest na licencji MIT.
 ## Twórca kodu
 
 Projekt istnieje dzięki:\
-Wojciech Jarczak - [github.com/wjarczak](https://github.com/wjarczak)
+Wojciech Jarczak - [github.com/8itflip](https://github.com/8itflip)
 
 ## Link do projektu
 [github.com/wjarczak/WSB-CRUD](https://github.com/wjarczak/WSB-CRUD)
